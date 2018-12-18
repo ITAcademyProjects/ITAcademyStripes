@@ -31,7 +31,7 @@
 .strips__strip:nth-child(5) {
   left: 80vw;
 }
-<!--.strips__strip:nth-child(1) .strip__content {
+.strips__strip:nth-child(1) .strip__content {
   background: #244F75;
   -webkit-transform: translate3d(-100%, 0, 0);
           transform: translate3d(-100%, 0, 0);
